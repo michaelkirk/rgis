@@ -1,6 +1,6 @@
 # rgis
 
-Geospatial data viewer written in Rust. Availble on the web ([rgis.app](https://rgis.app)) or natively on desktop.
+Geospatial data viewer written in Rust. Available on the web ([rgis.app](https://rgis.app)) or natively on desktop.
 
 ## License
 
